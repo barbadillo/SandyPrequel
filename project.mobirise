@@ -265,7 +265,7 @@
           "_styles": {
             "DIV": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "text-align": "left"
